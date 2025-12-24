@@ -46,4 +46,4 @@ This project was built specifically to showcase core Object-Oriented design patt
 
 ## 👤 Author
 **Shreef Rekaby**  
-[GitHub Profile](https://github.com/shreef-rekaby) | [LinkedIn](www.linkedin.com/in/shreef-rekaby)
+[GitHub Profile](https://github.com/shreef-rekaby) | [LinkedIn](https://www.linkedin.com/in/shreef-rekaby)
